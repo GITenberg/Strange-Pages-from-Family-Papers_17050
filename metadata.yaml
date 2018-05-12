@@ -1,0 +1,30 @@
+_repo: Strange-Pages-from-Family-Papers_17050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dyer, T. F. Thiselton (Thomas Firminger Thiselton)
+    aliases:
+    - Thiselton-Dyer, Thomas Firminger
+    - Thiselton-Dyer, T. F. (Thomas Firminger)
+    - Dyer, Thomas Firminger Thiselton
+    birthdate: 1848
+    gutenberg_agent_id: '7109'
+    url: http://www.gutenberg.org/2009/agents/7109
+description: ''
+gutenberg_issued: '2005-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends'
+- !lcc 'BF'
+- !lcsh 'Superstition'
+title: Strange Pages from Family Papers
+url: http://www.gutenberg.org/ebooks/17050
